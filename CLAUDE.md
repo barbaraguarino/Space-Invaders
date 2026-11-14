@@ -36,7 +36,7 @@ O usuário está usando este projeto para aprender. Por isso:
 
 ## Licença
 
-O projeto é **proprietário e privado**: ninguém pode baixar, copiar, modificar ou usar sem autorização por escrito. Não troque a licença nem adicione dependências ou trechos de código com licença incompatível sem avisar o usuário. O repositório no GitHub deve permanecer **privado**.
+O projeto é **proprietário** (todos os direitos reservados): ninguém pode baixar, copiar, modificar ou usar sem autorização por escrito. Não troque a licença nem adicione dependências ou trechos de código com licença incompatível sem avisar o usuário. O repositório no GitHub é **público**, mas isso não concede nenhum direito de uso: vale a licença proprietária do arquivo `LICENSE` (que inclui a cláusula de "sem garantias").
 
 ## Estado do projeto
 
